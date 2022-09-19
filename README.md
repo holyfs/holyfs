@@ -1,8 +1,6 @@
 <!-- Heading-->
-# Ely Cruz ![gif](/ezgif.com-gif-maker.gif)
+![MasterHead](/Desarrollador%20web%20(2).png)
 
-I am a full stack web developer in continuous growth.<br>
-I also do lo-fi type music in my spare time.
 
 ---
 
