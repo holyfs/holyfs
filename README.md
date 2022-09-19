@@ -3,7 +3,7 @@
 
 Hello World, I am a full stack web developer/
 
-Contact me on <button name="button" onClick="https://www.linkedin.com/in/elycruzdev">LinkedIn</button>
+Contact me on [LinkedIn]("https://www.linkedin.com/in/elycruzdev")
 
 - 💞️ I’m looking to collaborate on everything code relate
 - 📫 just write me a message if you want to reach me
