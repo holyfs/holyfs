@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @holyfs
-- 👀 I’m interested in music and coding
-- 🌱 I’m currently learning full stack web development in 4geeks academy
+<!-- Heading-->
+# Ely Cruz ![gif](/ezgif.com-gif-maker.gif)
+
+Hello World, I am a full stack web developer/
+
+Contact me on <button name="button" onClick="https://www.linkedin.com/in/elycruzdev">LinkedIn</button>
+
 - 💞️ I’m looking to collaborate on everything code relate
 - 📫 just write me a message if you want to reach me
 
