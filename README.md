@@ -11,5 +11,5 @@ I also do lo-fi type music in my spare time.
 
 ---
 
-Feel free to contact me at <a href="https://linkedin.com/in/www.linkedin.com/in/elycruzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/elycruzdev" height="30" width="40" /></a>
+Feel free to contact me at <a href="https://linkedin.com/in/elycruzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/elycruzdev" height="30" width="40" /></a>
 
